@@ -115,8 +115,7 @@ The entry point of the program can be found under **Functions** in Ghidra under 
 
 
 ### Behavior
-
-TO DO: Add diagram here
+![WannaCryBehaviorGraph](https://github.com/3dg3runner/fndcmpscpvcytermproject/blob/main/wannacrybehaviorgraph.png?raw=true)
 
 
 
