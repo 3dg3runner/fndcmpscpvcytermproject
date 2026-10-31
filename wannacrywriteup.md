@@ -48,7 +48,13 @@ The entry point of the program can be found under **Functions** in Ghidra under 
 
    * Extracts an embedded `.zip` file using password `WNcry@ol7` into its residing directory.
 
-   * Loads Bitcoin wallet addresses `[INSERT HERE]`.
+   * Loads Bitcoin wallet addresses:
+   
+     * `115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn`
+     
+     * `12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw`
+     
+     * `13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94`
 
    * Reads `c.wnry`, which contains TOR zip info, configuration data, and `.onion` addresses:
 
