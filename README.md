@@ -1,7 +1,9 @@
-# fndcmpscpvcytermproject
-Classifying and Highlighting Rapid Evolution of Ransomware with WannaCry, GandCrab, and LockBit Using Ghidra
+## Classifying and Highlighting Rapid Evolution of Ransomware with WannaCry, GandCrab, and LockBit Using Ghidra
+This project was a part of a class for my Master's in Cyber Security program. I will be publishing the full paper for this project to my Medium page. Overall, this was a very interesting projects to have done and a great opportunity to learn about reverse engineering, a subject I've been interested in for a while but have not had the chance to try yet.
 
-This repository is planned to include the following:
+https://medium.com/@3dg3runner
+
+This repository includes the following:
 - Chart for analysis pipeline
 - Ghidra writeup for WannaCry sample
 - Chart of WannaCry behavior
